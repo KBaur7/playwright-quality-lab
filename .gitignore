@@ -1,0 +1,12 @@
+node_modules/
+test-results/
+playwright-report/
+blob-report/
+playwright/.cache/
+.env
+*.log
+.DS_Store
+
+# Local notes and working rules, never pushed
+_private/
+CLAUDE.local.md
